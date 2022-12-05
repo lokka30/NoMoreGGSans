@@ -12,6 +12,7 @@ in the Discord interface with a font we're used to.
 
 1. The Discord web app, ran on the Firefox web browser.
 2. A stylesheet override tool such as [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) (recommended).
+3. The 'Whitney' font. It was somewhat tricky to find, as there are a bunch of different fonts of this name. [CuFonFonts](https://www.cufonfonts.com/font/whitney-2) seems to have the correct version.
 
 ## Usage
 
