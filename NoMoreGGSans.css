@@ -1,0 +1,15 @@
+/* ==UserStyle==
+@name           No More GG Sans
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    Revert to the older Discord font before GG Sans!
+@author         lokka30
+==/UserStyle== */
+
+@-moz-document domain("discord.com") {
+    :root {
+        --font-primary: "Whitney", "Noto Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+        --font-display: "Whitney", "Noto Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+        --font-headline: "ABC Ginto Nord", "Whitney", "Noto Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    }
+}
