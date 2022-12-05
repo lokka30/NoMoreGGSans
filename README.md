@@ -18,6 +18,10 @@ in the Discord interface with a font we're used to.
 
 Using the stylesheet extension of your choice, simply copy the CSS code in, reload Discord, and you're all sorted. :)
 
+## Caveats
+
+- You have to run Discord in your browser. (This comes with a bunch of positives, too!)
+
 ## Contributions
 
 Contributions are warmly welcome. Please check the [issue tracker](https://github.com/lokka30/NoMoreGGSans/issues) if you are interested.
